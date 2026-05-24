@@ -1,25 +1,36 @@
 # Olá! Bem-vindo ao meu GitHub 👋
 
-Sou estudante de Ciência de Dados e atuo no Bioparque da Raízen como Analista de Preparo, Plantio, Colheita e Transporte. Possuo uma base sólida na área agrícola, com experiência prévia no monitoramento de operações através de SGPA e no trabalho com sistemas de telemetria de veículos pesados e leves. 
+Sou estudante de **Ciência de Dados** e atuo no **Bioparque da Raízen** como Analista de Preparo, Plantio, Colheita e Transporte. Possuo uma base sólida na área agrícola, com experiência prévia no monitoramento de operações através de SGPA e no trabalho com sistemas de telemetria de veículos pesados e leves. 
 
-Sempre em busca de evolução constante, transformo desafios operacionais corporativos em soluções eficientes estruturando dados com SQL e DAX, escrevendo automações em Python e VBA, e desenvolvendo interfaces web. Quando não estou modelando sistemas ou codando painéis, meu maior lazer para relaxar da rotina intensa é pegar a estrada de moto e admirar a paisagem.
+Sempre em busca de evolução constante, transformo desafios operacionais corporativos em soluções eficientes estruturando dados, criando automações e desenvolvendo interfaces web. Quando não estou modelando sistemas ou codando painéis, meu maior lazer para relaxar da rotina intensa é pegar a estrada de moto e admirar a paisagem. 🏍️
+
+---
 
 ### 🚀 O que eu faço
 
 * 🌾 **Agro & Dados:** Monitoramento de operações agrícolas, desenvolvimento de painéis analíticos corporativos e automação de rotinas logísticas.
-* 🖥️ **Painéis de Monitoramento Web:** Desenvolvimento de interfaces em HTML focadas no acompanhamento e gestão visual das operações de colheita, plantio e aplicação de corretivos.
+* 🖥️ **Painéis de Monitoramento Web:** Desenvolvimento de interfaces focadas no acompanhamento e gestão visual das operações de colheita, plantio e aplicação de corretivos.
 * 💻 **Engenharia de Software:** Estruturação de bancos de dados e sistemas de gestão (como o projeto do portal Chavantes Notícia).
 * ⚙️ **Automação & Logística:** Criação de scripts para coleta de dados e análise de indicadores operacionais.
 
+---
+
 ### 🛠️ Minha Stack Principal
 
-* **Linguagens & Web:** Python, SQL, VBA, HTML
-* **Dados & BI:** Power BI, DAX, Excel Avançado
-* **Ferramentas e Lógica:** Lógica de Programação e Engenharia de Prompt (NotebookLM)
+**Linguagens & Web:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Dados & Ferramentas:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/
-* **E-mail:** guilherme_steinhardt@outlook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/])
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[guilherme_steinhardt@outlook.com])
