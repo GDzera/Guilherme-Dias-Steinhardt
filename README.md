@@ -21,5 +21,5 @@ Sempre em busca de evolução constante, transformo desafios operacionais corpor
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [Cole o link do seu LinkedIn aqui]
-* **E-mail:** [Digite seu E-mail aqui]
+* **LinkedIn:** https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/
+* **E-mail:** guilherme_steinhardt@outlook.com
