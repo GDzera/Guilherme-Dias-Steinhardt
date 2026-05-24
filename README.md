@@ -32,13 +32,12 @@ Sempre em busca de evolução constante, transformo desafios operacionais corpor
 
 ### 📊 Minhas Estatísticas no GitHub
 
-### 📊 Minhas Estatísticas no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GDzera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDzera&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme_Dias_Steinhardt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme_Dias_Steinhardt&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/])
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[guilherme_steinhardt@outlook.com])
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme3112@gmail.com)
