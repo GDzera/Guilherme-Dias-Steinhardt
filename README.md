@@ -32,10 +32,10 @@ Sempre em busca de evolução constante, transformo desafios operacionais corpor
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GDZera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDZera&layout=compact&theme=tokyonight" width="48%" />
-</div>
+### 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme_Dias_Steinhardt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme_Dias_Steinhardt&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Como me encontrar
