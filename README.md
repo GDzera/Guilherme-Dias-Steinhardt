@@ -30,6 +30,14 @@ Sempre em busca de evolução constante, transformo desafios operacionais corpor
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GDZera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDZera&layout=compact&theme=tokyonight" width="48%" />
+</div>
+---
+
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/])
