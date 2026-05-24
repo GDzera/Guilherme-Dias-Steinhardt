@@ -1,58 +1,89 @@
-# Olá, eu sou Guilherme Dias Steinhardt
+# Guilherme Dias Steinhardt
+
+> Dados, automação e dashboards para operações agrícolas
 
 Sou estudante de **Ciência de Dados** e atuo no **Bioparque da Raízen**
-como Analista de Preparo, Plantio, Colheita e Transporte. Minha base está
-na operação agrícola, com experiência em SGPA, telemetria de veículos pesados
-e leves, estruturação de dados e desenvolvimento de soluções para rotinas do
-campo.
+como Analista de Preparo, Plantio, Colheita e Transporte. Minha trajetória
+une vivência operacional no campo, monitoramento agrícola, SGPA, telemetria
+e desenvolvimento de soluções com dados.
 
-Gosto de transformar desafios operacionais em ferramentas simples de usar:
-painéis web, automações, consultas, indicadores e interfaces que ajudam a
-acompanhar a rotina com mais clareza. Fora do trabalho e dos estudos, meu
-jeito preferido de recarregar é pegar a estrada de moto e admirar a paisagem.
+Meu foco é transformar rotinas manuais, planilhas e indicadores operacionais
+em ferramentas simples de usar: automações, validações, painéis web e análises
+que ajudam a operação a enxergar melhor o que está acontecendo.
 
-## O que eu faço
+## Como eu gero valor
 
-- **Agro & Dados:** monitoramento de operações agrícolas, análise de
-  indicadores e organização de bases operacionais.
-- **Painéis de Monitoramento Web:** interfaces para acompanhamento de plantio,
-  colheita, apontamentos e aplicação de corretivos.
-- **Automação & Logística:** scripts para coleta, validação, consolidação e
-  checagem de dados.
-- **Engenharia de Software:** estruturação de sistemas, bancos de dados e fluxos
-  de apoio à gestão.
+- Estruturo dados agrícolas para acompanhamento de plantio, colheita,
+  corretivos, apontamentos e indicadores operacionais.
+- Automatizo conferências e consolidações que antes dependiam de processos
+  manuais ou repetitivos.
+- Crio dashboards web para facilitar leitura, comparação e tomada de decisão.
+- Uno conhecimento de operação agrícola com tecnologia, buscando soluções
+  práticas para problemas reais do dia a dia.
 
 ## Projetos em destaque
 
-- [painel-plantio](https://github.com/GDzera/painel-plantio)
-  Dashboards e rotinas para acompanhamento de plantio, colheita, corretivos e
-  apontamentos agrícolas.
+### [painel-plantio](https://github.com/GDzera/painel-plantio)
 
-- [fundamentos-algoritmos-notebooklm](https://github.com/GDzera/fundamentos-algoritmos-notebooklm)
-  Estudos e materiais sobre lógica de programação, algoritmos e exemplos em
-  Python.
+Projeto voltado ao acompanhamento de operações agrícolas por meio de rotinas
+em Python e dashboards HTML.
+
+**Principais entregas:**
+
+- Leitura, tratamento e consolidação de planilhas operacionais.
+- Dashboards para plantio, colheita, corretivos e apontamentos.
+- Validações entre bases para apoiar conferência de dados.
+- Geração de interfaces web com HTML, CSS, JavaScript e Chart.js.
+
+**Tecnologias:** Python, Pandas, NumPy, OpenPyXL, Excel, HTML, CSS,
+JavaScript e Chart.js.
+
+> Em projetos com dados operacionais reais, minha prioridade é trabalhar com
+> versões anonimizadas ou bases fictícias para publicação em portfólio.
+
+### [fundamentos-algoritmos-notebooklm](https://github.com/GDzera/fundamentos-algoritmos-notebooklm)
+
+Projeto de estudo sobre fundamentos de algoritmos, lógica de programação e uso
+de IA como apoio à organização do aprendizado.
+
+**Principais entregas:**
+
+- Miniguia de algoritmos para iniciantes.
+- Exemplos simples em Python.
+- Glossário, fontes, prompts e registro das dificuldades encontradas.
+- Documentação do processo de estudo com apoio do NotebookLM.
 
 ## Stack principal
 
-### Linguagens & Web
+### Dados, automação e análise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Dados & Ferramentas
+### Dashboards e ferramentas
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ## Atualmente estudando
 
 - Modelagem e análise de dados.
 - Boas práticas de Python para automação.
 - Dashboards e storytelling com dados.
-- Estruturação de projetos para portfólio no GitHub.
+- Organização de projetos para portfólio técnico.
+
+## Próximos passos do portfólio
+
+- Criar versões demonstrativas com dados fictícios para projetos agrícolas.
+- Adicionar prints dos dashboards nos READMEs dos projetos.
+- Documentar melhor o problema, a solução e o impacto de cada case.
+- Fixar no perfil os repositórios que melhor mostram dados, automação e agro.
 
 ## Contato
 
