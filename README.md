@@ -35,16 +35,34 @@ em Python e dashboards HTML.
 - Validações entre bases para apoiar conferência de dados.
 - Geração de interfaces web com HTML, CSS, JavaScript e Chart.js.
 
+**Previews demonstrativos com dados fictícios:**
+
 <!-- markdownlint-disable MD033 -->
 <p align="center">
   <img
-    src="assets/dashboard-plantio-preview.png"
-    alt="Preview anonimizado do dashboard de plantio"
+    src="assets/dashboard-visao-mensal.png"
+    alt="Preview demonstrativo da visão mensal do painel agrícola"
+    width="96%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="assets/dashboard-visao-frente.png"
+    alt="Preview demonstrativo da análise por frente"
     width="48%"
   />
   <img
-    src="assets/auditoria-agricola-preview.png"
-    alt="Preview anonimizado da auditoria agrícola"
+    src="assets/dashboard-perdas-colheita.png"
+    alt="Preview demonstrativo do controle de perdas de colheita"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="assets/dashboard-transporte.png"
+    alt="Preview demonstrativo do detalhe de transporte"
     width="48%"
   />
 </p>
@@ -102,7 +120,6 @@ de IA como apoio à organização do aprendizado.
 - Boas práticas de Python para automação.
 - Dashboards e storytelling com dados.
 - Organização de projetos para portfólio técnico.
-
 
 ## Contato
 
