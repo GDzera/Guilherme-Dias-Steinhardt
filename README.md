@@ -35,6 +35,10 @@ em Python e dashboards HTML.
 - Validações entre bases para apoiar conferência de dados.
 - Geração de interfaces web com HTML, CSS, JavaScript e Chart.js.
 
+| Dashboard de Plantio | Auditoria Agrícola |
+| --- | --- |
+| ![Preview anonimizado do dashboard de plantio](assets/dashboard-plantio-preview.png) | ![Preview anonimizado da auditoria agrícola](assets/auditoria-agricola-preview.png) |
+
 **Tecnologias:** Python, Pandas, NumPy, OpenPyXL, Excel, HTML, CSS,
 JavaScript e Chart.js.
 
@@ -52,6 +56,8 @@ de IA como apoio à organização do aprendizado.
 - Exemplos simples em Python.
 - Glossário, fontes, prompts e registro das dificuldades encontradas.
 - Documentação do processo de estudo com apoio do NotebookLM.
+
+![Preview do README do projeto de fundamentos de algoritmos](assets/fundamentos-readme.png)
 
 ## Stack principal
 
