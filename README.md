@@ -84,13 +84,6 @@ de IA como apoio à organização do aprendizado.
 - Dashboards e storytelling com dados.
 - Organização de projetos para portfólio técnico.
 
-## Próximos passos do portfólio
-
-- Criar versões demonstrativas com dados fictícios para projetos agrícolas.
-- Adicionar prints dos dashboards nos READMEs dos projetos.
-- Documentar melhor o problema, a solução e o impacto de cada case.
-- Fixar no perfil os repositórios que melhor mostram dados, automação e agro.
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-steinhardt-0953a93ba/)
