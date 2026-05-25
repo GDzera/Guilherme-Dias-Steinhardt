@@ -35,9 +35,20 @@ em Python e dashboards HTML.
 - Validações entre bases para apoiar conferência de dados.
 - Geração de interfaces web com HTML, CSS, JavaScript e Chart.js.
 
-| Dashboard de Plantio | Auditoria Agrícola |
-| --- | --- |
-| ![Preview anonimizado do dashboard de plantio](assets/dashboard-plantio-preview.png) | ![Preview anonimizado da auditoria agrícola](assets/auditoria-agricola-preview.png) |
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img
+    src="assets/dashboard-plantio-preview.png"
+    alt="Preview anonimizado do dashboard de plantio"
+    width="48%"
+  />
+  <img
+    src="assets/auditoria-agricola-preview.png"
+    alt="Preview anonimizado da auditoria agrícola"
+    width="48%"
+  />
+</p>
+<!-- markdownlint-enable MD033 -->
 
 **Tecnologias:** Python, Pandas, NumPy, OpenPyXL, Excel, HTML, CSS,
 JavaScript e Chart.js.
@@ -57,7 +68,15 @@ de IA como apoio à organização do aprendizado.
 - Glossário, fontes, prompts e registro das dificuldades encontradas.
 - Documentação do processo de estudo com apoio do NotebookLM.
 
-![Preview do README do projeto de fundamentos de algoritmos](assets/fundamentos-readme.png)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img
+    src="assets/fundamentos-readme.png"
+    alt="Preview do README do projeto de fundamentos de algoritmos"
+    width="90%"
+  />
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ## Stack principal
 
@@ -83,6 +102,13 @@ de IA como apoio à organização do aprendizado.
 - Boas práticas de Python para automação.
 - Dashboards e storytelling com dados.
 - Organização de projetos para portfólio técnico.
+
+## Próximos passos do portfólio
+
+- Criar versões demonstrativas com dados fictícios para projetos agrícolas.
+- Adicionar prints dos dashboards nos READMEs dos projetos.
+- Documentar melhor o problema, a solução e o impacto de cada case.
+- Fixar no perfil os repositórios que melhor mostram dados, automação e agro.
 
 ## Contato
 
